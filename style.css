@@ -1,0 +1,47 @@
+body{
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+#logo
+{
+	height:120px;
+	width:120px;
+	background-color:#FFF;
+	float:left;
+}
+#logo2
+{
+	height:120px;
+	width:120px;
+	background-color:#FFF;
+	float:right;
+}
+#container ul li{
+	background-color:#F60;
+	width:150px;
+	border:1px solid white;
+    height:50px;
+	line-height:50px;
+	text-align:center;
+	text-color:#996;
+	color:#FFF;
+	font-size:18px;
+}
+#container ul li:hover{
+	background-color:#000;
+}
+
+	.content
+{
+	height:320px;
+	background-color:#9CF;
+}
+p{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	padding-left:10px;
+	padding-right:10px;
+    text-align:justify;
+	word-spacing:normal;
+}
